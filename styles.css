@@ -1,0 +1,14 @@
+button {
+    height: 35px;
+    width:75px;
+    border-radius: 10px;
+}
+body{
+    text-align:center;
+}
+body{
+    background: url("https://www.tomswallpapers.com/large/201503/8652.jpg");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    font-family: 'Aladin', cursive;
+}
